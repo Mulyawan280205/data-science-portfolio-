@@ -39,3 +39,31 @@ This project focuses on predicting customer churn using machine learning techniq
 
 ### Key Insight
 Detecting churn is more challenging than predicting non-churn customers, and optimizing recall is crucial for business impact.
+
+## Project 3: Fraud Detection using Machine Learning
+
+This project focuses on detecting potentially fraudulent transactions using machine learning techniques and behavioral transaction patterns.
+
+### Objectives
+- Detect suspicious transactions
+- Handle imbalanced datasets
+- Improve fraud detection performance
+- Analyze key fraud indicators
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+### Results
+- Accuracy: 95.6%
+- Precision: 94%
+- Recall: 65%
+- ROC-AUC: 0.83
+
+### Key Insights
+- Transaction amount had the strongest impact on fraud prediction
+- Failed login attempts were highly correlated with fraud risk
+- International transactions increased fraud probability
